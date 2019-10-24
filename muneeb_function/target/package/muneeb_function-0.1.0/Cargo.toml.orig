@@ -1,6 +1,6 @@
 [package]
 name = "muneeb_function"
-version = "0.1.1"
+version = "0.1.0"
 authors = ["Muhammad Muneeb"]
 edition = "2018"
 description =  "Here is my first rust library"
