@@ -1,6 +1,6 @@
 [package]
 name = "simplecalculator_function"
-version = "0.1.0"
+version = "0.1.3"
 authors = ["muhammadmuneeb264 <muhammadmuneeb264@gmail.com>"]
 edition = "2018"
 description = "In this library I am going to show you how to make a very basic Calculator using two user input values form user and perform some mathematical operation like addition, subraction etc,code : 
