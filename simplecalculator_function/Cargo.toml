@@ -1,0 +1,26 @@
+[package]
+name = "simplecalculator_function"
+version = "0.1.0"
+authors = ["muhammadmuneeb264 <muhammadmuneeb264@gmail.com>"]
+edition = "2018"
+description = "In this library I am going to show you how to make a very basic Calculator using two user input values form user and perform some mathematical operation like addition, subraction etc,code : 
+fn calculator_function(c:f64,d:f64) 
+{
+
+    let sum : f64 =  c + d ; 
+    let sub : f64 =  c - d ;
+    let multi : f64 = c * d ;
+    let divi : f64 = c / d ;
+    let modul : f64 = c % d ;
+println!("Addition = {}",sum);
+println!("Subtraction =  {}",sub);
+println!(" multiplication = {}",multi);
+println!(" division = {}",divi);
+println!(" modulus = {}",modul); 
+}"
+license = "MIT"
+repository = "https://github.com/muhammadmuneeb264/rust_library.git"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

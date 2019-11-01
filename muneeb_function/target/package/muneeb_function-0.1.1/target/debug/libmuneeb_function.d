@@ -1,0 +1,1 @@
+C:\Users\Muhammad\ Muneeb\Desktop\muneebrust\rust_library\muneeb_function\target\package\muneeb_function-0.1.1\target\debug\libmuneeb_function.rlib: C:\Users\Muhammad\ Muneeb\Desktop\muneebrust\rust_library\muneeb_function\target\package\muneeb_function-0.1.1\src\lib.rs
